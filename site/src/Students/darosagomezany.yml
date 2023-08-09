@@ -91,19 +91,19 @@ basic_info:
 skills:
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 85%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 85%
 
       - name: Angular
-        level: 98%
+        level: 85%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 85%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 70%
 
       - name: Sketch & Photoshop
         level: 60%
